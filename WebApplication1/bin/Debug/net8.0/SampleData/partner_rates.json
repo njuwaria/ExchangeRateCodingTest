@@ -1,0 +1,67 @@
+﻿{
+  "PartnerRates": [
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 16.78,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "deposit",
+      "Rate": 16.83,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "MXN",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "cash",
+      "Rate": 16.75,
+      "AcquiredDate": "2023-07-25T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 57.14,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "PHP",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "deposit",
+      "Rate": 56.74,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "cash",
+      "DeliveryMethod": "deposit",
+      "Rate": 81.79,
+      "AcquiredDate": "2023-07-25T05:00:00.000Z"
+    },
+    {
+      "Currency": "INR",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "cash",
+      "Rate": 81.85,
+      "AcquiredDate": "2023-07-26T05:00:00.000Z"
+    },
+    {
+      "Currency": "GTM",
+      "PaymentMethod": "debit",
+      "DeliveryMethod": "cash",
+      "Rate": 8.26,
+      "AcquiredDate": "2023-07-24T05:00:00.000Z"
+    },
+    {
+      "Currency": "GTM",
+      "PaymentMethod": "bankaccount",
+      "DeliveryMethod": "deposit",
+      "Rate": 8.30,
+      "AcquiredDate": "2023-07-25T05:00:00.000Z"
+    }
+  ]
+}
